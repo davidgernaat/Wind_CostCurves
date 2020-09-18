@@ -1,3 +1,3 @@
-#  Climate-change-impacts-on-renewable-energy-supply
+#  Wind_CostCurves
 
-Scripts used to generate results as published in the journal Nature Climate Change titled 'Climate change impacts on renewable energy supply'.
+Scripts used to generate Cost-supply curves for onshore and offshore wind as published in the journal Nature Climate Change titled 'Climate change impacts on renewable energy supply'.
